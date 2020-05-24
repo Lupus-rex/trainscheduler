@@ -1,0 +1,24 @@
+body {
+  background-color: aquamarine;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+#train {
+  background-color: burlywood;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+}
+#trainSchedule {
+  background-color: aquamarine;
+  color: black;
+  margin: 10px;
+  padding-left: 10px;
+}
+#addTrain {
+  background-color: teal;
+  color: white;
+  margin: 10px;
+  padding-left: 10px;
+}
